@@ -1,5 +1,4 @@
 
-
 body {
     width: 100%;
     margin: auto;
@@ -37,7 +36,11 @@ body {
 }
 
 .card-pic {
-  position: absolute;
+  background-color: #4aaaa5;
+  color: white;
+  font-size: 15px;
+  text-align: center;
+  
 }
 
 .card-header {
@@ -91,7 +94,6 @@ button[type=button] {
   border: 0 none;
   opacity: 0.8;
 }
-
 
 
 .footer {
