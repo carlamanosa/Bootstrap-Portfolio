@@ -24,12 +24,20 @@ body {
     padding-top: 19px;
 }
 
+.navbar-light {
+  color: white;
+}
+
 .card {
   width: 100vh;
   height: 70px;
   margin: 0 auto;
   font-size: 15px;
   
+}
+
+.card-pic {
+  position: absolute;
 }
 
 .card-header {
